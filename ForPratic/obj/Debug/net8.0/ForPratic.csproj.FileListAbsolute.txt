@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\bin\Debug\net8.0\ForPratic.exe
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\bin\Debug\net8.0\ForPratic.deps.json
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\bin\Debug\net8.0\ForPratic.runtimeconfig.json
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\bin\Debug\net8.0\ForPratic.dll
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\bin\Debug\net8.0\ForPratic.pdb
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\obj\Debug\net8.0\ForPratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\obj\Debug\net8.0\ForPratic.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\obj\Debug\net8.0\ForPratic.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\obj\Debug\net8.0\ForPratic.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\obj\Debug\net8.0\ForPratic.sourcelink.json
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\obj\Debug\net8.0\ForPratic.dll
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\obj\Debug\net8.0\refint\ForPratic.dll
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\obj\Debug\net8.0\ForPratic.pdb
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\obj\Debug\net8.0\ForPratic.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\ForPratic\ForPratic\obj\Debug\net8.0\ref\ForPratic.dll
